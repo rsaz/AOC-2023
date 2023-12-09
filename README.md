@@ -4,4 +4,4 @@
 
 Problem analysis diagram:
 
-![Day 1: Trebuchet?!](/img/day1.png)
+![Day 1: Trebuchet?!](https://github.com/rsaz/AOC-2023/blob/main/img/d1p1.png)
